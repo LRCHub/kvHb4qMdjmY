@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Breakadawn",
+  "base_artist": "De La Soul",
+  "createdAt": "2026-03-17T22:12:31.702051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/01_Breakadawn_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/02_Breakadawn_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/03_Breakadawn_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "Morgue Vanguard feat. Doyz",
+      "has_synced": true,
+      "path": "select/04_Breakadawn_Morgue_Vanguard_feat._Doyz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "Morgue Vanguard & Doyz",
+      "has_synced": true,
+      "path": "select/05_Breakadawn_Morgue_Vanguard_&_Doyz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breakadawn (instrumental)",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/06_Breakadawn_(instrumental)_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breakadawn (vocal version)",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/07_Breakadawn_(vocal_version)_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/08_Breakadawn_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "Jay Sean ft. Busta Rhymes",
+      "has_synced": true,
+      "path": "select/09_Breakadawn_Jay_Sean_ft._Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "Morgue Vanguard",
+      "has_synced": true,
+      "path": "select/10_Breakadawn_Morgue_Vanguard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Breakadawn",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/11_Breakadawn_De_La_Soul.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breakadawn",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/pl_01_Breakadawn_De_La_Soul.txt"
+    }
+  ]
+}
